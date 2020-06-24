@@ -1,0 +1,44 @@
+#header {
+
+    margin-top: 10px;
+    text-align: center;
+    background: rgb(255,255,255);
+
+}
+html {
+  height: 100%;
+}
+
+#main {
+    padding: 30px;
+}
+
+#footer {
+    /*text-align: center;
+    background: rgb(0,0,0);*/
+}
+
+#footer .jumbotron{
+	text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    width:100%;
+   /* position:absolute;*/
+    /*bottom:0;*/
+}
+
+.navbar{
+    margin-bottom: 20px;
+    align-content: center;
+}
+#header .jumbotron{
+	background: rgb(255,69,0);
+}
+.container{
+	align-items: center;
+}
+.btn{
+	background: #FF8C00;
+	backface-visibility: #B85A03;
+	border-color: #B85A03;
+}
